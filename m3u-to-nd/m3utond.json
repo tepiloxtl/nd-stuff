@@ -1,0 +1,12 @@
+{
+    "subsonic_instance": {
+        "adres": "YOUR INSTANCE ADDRESS HERE",
+        "login": "YOUR INSTANCE LOGIN HERE",
+        "password": "YOUR INSTANCE PASSWORD HERE"
+    },
+    "m3u_files": [
+        {"path": "pl.m3u8", "prefix": "", "suffix": ""}
+    ],
+    "remove_missing_stations": false,
+    "_comment": "prefix, suffix and remove_missing_stations do nothing yet, theyre signs of thigs to come"
+}
