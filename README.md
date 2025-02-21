@@ -5,4 +5,4 @@ My little music-related scripts and tools around Navidrome
 Simple script that adds stations from .m3u file to your navidrome instance
 
 ## mro-to-m3u
-MyRadioOnline scraper to m3u files, separated by country
+MyRadioOnline scraper to m3u files, separated by country, [Usage](./mro-to-m3u)
